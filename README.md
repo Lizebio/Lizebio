@@ -5,8 +5,8 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em **Análise e desenvolvimento de sistemas** em **2021**.
+- 🤔 &nbsp; Desenvolvedor Front-end em busca do Full-stack.
+- 🎓 &nbsp; Formado em **Análise e desenvolvimento de sistemas**.
 - 💼 &nbsp; Trabalhando como **Analista MIS** na empresa **Grupo Elo**.
 - 🌱 &nbsp; Aprendendo mais sobre **Javascript**.
 
