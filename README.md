@@ -6,7 +6,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em **Análise e desenvolvimento de sistemas** na Faculdade <a href="www.anhanguera.com">Anhanguera</a>.
+- 🎓 &nbsp; Formado em **Análise e desenvolvimento de sistemas** na <aAnhanguera</a>.
 - 💼 &nbsp; Trabalhando como **Analista MIS** na empresa <a href="www.grupoelo.com)">Grupo Elo</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Javascript**.
 
