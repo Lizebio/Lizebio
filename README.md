@@ -6,8 +6,8 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em **Análise e desenvolvimento de sistemas** na <aAnhanguera</a>.
-- 💼 &nbsp; Trabalhando como **Analista MIS** na empresa <a href="www.grupoelo.com)">Grupo Elo</a>
+- 🎓 &nbsp; Formado em **Análise e desenvolvimento de sistemas** em **2021**.
+- 💼 &nbsp; Trabalhando como **Analista MIS** na empresa **Grupo Elo**.
 - 🌱 &nbsp; Aprendendo mais sobre **Javascript**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -34,6 +34,6 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-ferreira-1361a7190/" /></a>
 
   <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511969544462"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://wa.me/5511969544462"/></a>
 </a>
 </p>  
