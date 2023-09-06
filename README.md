@@ -3,23 +3,23 @@
 
 
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;About</h3>
 
-- 🤔 &nbsp; Desenvolvedor Front-end em busca do Full-stack.
-- 🎓 &nbsp; Formado em **Análise e desenvolvimento de sistemas**.
-- 💼 &nbsp; Trabalhando como **Analista MIS** na empresa **Grupo Elo**.
-- 🌱 &nbsp; Aprendendo mais sobre **Javascript**.
+- 🤔 &nbsp; Front-end developer looking for the Full-stack.
+- 🎓 &nbsp; Graduated in **Analysis and systems development**.
+- 💼 &nbsp; Working as **Mis Fully Analyst** at **Grupo Elo**.
+- 🌱 &nbsp; Learning more about **Javascript**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp; Skills </h3>
 
-**Aplicações e Dados**
+**Applications and Data**
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![SQLServer](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
